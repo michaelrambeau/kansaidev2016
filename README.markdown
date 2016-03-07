@@ -2,7 +2,7 @@
 
 ## MODERN WEB DEVELOPMENT @FIRSTSERVER
 
-A presentation for "開発ツール チラ見せ♡ナイト" event
+A presentation for "開発ツール チラ見せ♡ナイト" event, help in Osaka, on 2016-03-04.
 
 Made with [Spectacle](https://github.com/FormidableLabs/spectacle), a “ReactJS based Presentation Library”
 
@@ -14,7 +14,7 @@ Start the development server
 npm start
 ```
 
-Deploy to http://kansaidev2016.surge.sh (host defined in `CNANE` file)
+Deploy to http://kansaidev2016.surge.sh (host defined in `CNAME` file)
 
 ```
 npm run deploy
